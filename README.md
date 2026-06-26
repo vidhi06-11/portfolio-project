@@ -17,7 +17,7 @@ intersection of copywriting, systems thinking, and data.
 ## Repo Structure
 - `/research/sources.md` — 10 curated expert profiles with links and annotations
 - `/research/linkedin-posts/` — Posts collected for each expert (2 posts each)
-- `/research/youtube-transcripts/` — Folder ready for transcripts via Supadata API
+ - `/research/youtube-transcripts/` — 8 transcripts fetched via Supadata API (Jason Bay, Alex Berman, Patrick Dang, Jack Reamer)
 - `/research/other/` — Additional materials
 - `/scripts/` — Scripts for automated data collection
 
